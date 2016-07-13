@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">寝室菠菜</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_login">login</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="forgot">forget password?</string>
+    <string name="register">register now</string>
+
+    <string name="reg_username">nickname</string>
+    <string name="reg_passwd">password</string>
+    <string name="reg_confirm">confirm password</string>
+    <string name="reg_phone">phone number</string>
+    <string name="reg_pay">pay word with 6 number</string>
+
+    <string name="accountHint">phone number</string>
+    <string name="account">Account</string>
+
+    <string name="sum">Money</string>
+    <string name="recharge">Recharge</string>
+    <string name="withdraw">Withdraw</string>
+
+    <string name="oldPay">   Old password</string>
+    <string name="newPay">   new password</string>
+    <string name="confirmPay">   confirm password</string>
+
+    <string name="payTitle">Input pay password</string>
+
+    <string name="pay_cancel">Cancel</string>
+    <string name="pay_sure">Sure</string>
+
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+
+</resources>
